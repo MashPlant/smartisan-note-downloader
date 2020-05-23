@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true
+  },
+  "exclude": ["tmp"]
+}
